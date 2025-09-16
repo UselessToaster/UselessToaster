@@ -11,7 +11,7 @@ I'm excited to find a position where I can contribute to a team that values clea
 
 📍 Location: Austin, TX
 
-🎓 Education: B.S. in Information Science at University of South Florida, Concentration in Information Security
+🎓 Education: B.S. in Information Science at University of South Florida | Concentration in Information Security
 
 📅 Programming Since: 2012
 
@@ -21,11 +21,11 @@ I'm excited to find a position where I can contribute to a team that values clea
 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
 -->
 ## Tech & Interests
-🧰 Languages: Python, Java, SQL, Javascript, C  
+🧰 Languages: Python | Java | SQL | Javascript | C  
 
-🔭 Focus: App Development, Cybersecurity
+🔭 Focus: App Development | Cybersecurity
 
-❤️ Interests: Community Building, Cooking, Outdoors
+❤️ Interests: Community Building | Cooking | Outdoors
 
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
