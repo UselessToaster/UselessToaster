@@ -10,7 +10,9 @@ My background is in developing automated GIS solutions with Python, where I buil
 I'm excited to find a position where I can contribute to a team that values clean code, strong security practices, and creating a great user experience.
 
 📍 Location: Austin, TX
+
 🎓 Education: B.S. in Information Science at University of South Florida, Concentration in Information Security
+
 📅 Programming Since: 2012
 
 <!--## Featured Projects
@@ -20,7 +22,9 @@ I'm excited to find a position where I can contribute to a team that values clea
 -->
 ## Tech & Interests
 🧰 Languages: Python, Java, SQL, Javascript, C  
+
 🔭 Focus: App Development, Cybersecurity
+
 ❤️ Interests: Community Building, Cooking, Outdoors
 
 
