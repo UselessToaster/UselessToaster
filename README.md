@@ -1,6 +1,6 @@
 
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/UselessToaster)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/UselessToaster)
+<!--[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/UselessToaster)
+[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/UselessToaster) -->
 
 ## About
 👋 Hey, I'm Tianna. I'm a Software Developer seeking a role where I can apply my passion for building secure and user-centric applications.
